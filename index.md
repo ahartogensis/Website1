@@ -1,7 +1,10 @@
 ## Welcome to my first Website 
 
 This website is just for messing around and figuring out how to make a website.
-[Link](https://www.instagram.com/p/B_QMuazHKiOjZcCc3cF-0wcLwoZ56Sp-7dxTW80/)
+My Instagram: [Link](https://www.instagram.com/p/B_QMuazHKiOjZcCc3cF-0wcLwoZ56Sp-7dxTW80/)
+
+### Dogs
+![Image](https://en.wikipedia.org/wiki/Basset_Hound#/media/File:BassetHound_profil.jpg)
 
 
 
