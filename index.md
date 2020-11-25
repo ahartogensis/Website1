@@ -1,3 +1,10 @@
+## Welcome to my first Website 
+
+This website is just for messing around and figuring out how to make a website.
+[Link](https://www.instagram.com/p/B_QMuazHKiOjZcCc3cF-0wcLwoZ56Sp-7dxTW80/)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ahartogensis/Website1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -13,7 +20,7 @@ Syntax highlighted code block
 
 # Hello welcome to my first website
 
-#I am not sure what I am doing
+# I am not sure what I am doing
 
 **Bold** and _Italic_ and `Code` text
 
