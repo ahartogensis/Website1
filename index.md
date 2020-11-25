@@ -11,15 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hello welcome to my first website
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+#I am not sure what I am doing
 
 **Bold** and _Italic_ and `Code` text
 
